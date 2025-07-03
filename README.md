@@ -35,7 +35,7 @@ A modern car rental application built with Next.js 15, React 19, and Tailwind CS
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/trt-car-rental.git
+git clone https://github.com/shjkaf29/trt-car-rental.git
 cd trt-car-rental
 ```
 
